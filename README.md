@@ -44,9 +44,9 @@ The aim is to uncover trends in product popularity, revenue contribution, and se
 
 ## 📈 Sample Visuals
 
-![Revenue by Product Category](results/revenue_by_category.png)  
-![Monthly Sales Trend](results/monthly_sales_trend.png)
-![Monthly_Item_Sales](results/monthly_item_sales.png)
+![Revenue by Product Category](revenue_by_category.png)  
+![Monthly Sales Trend](monthly_sales_trend.png)
+![Monthly_Item_Sales](monthly_item_sales.png)
 
 ---
 
