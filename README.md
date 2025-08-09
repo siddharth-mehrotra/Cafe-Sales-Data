@@ -43,7 +43,6 @@ The aim is to uncover trends in product popularity, revenue contribution, and se
 ---
 
 ## 📈 Sample Visuals
-*(Upload your pivot charts in a folder named `/results/` and they will appear here)*  
 
 ![Revenue by Product Category](results/revenue_by_category.png)  
 ![Monthly Sales Trend](results/monthly_sales_trend.png)
