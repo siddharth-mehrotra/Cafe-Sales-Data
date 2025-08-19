@@ -34,11 +34,14 @@ The aim is to uncover trends in product popularity, revenue contribution, and se
 
 ---
 
-## 📊 Key Insights
+## 📊 Key Insights + Solutions
 - 🥗 **Salads** contributed **20%** of total revenue — highest among all products.  
-- 🍵 + 🍪 **Tea & Cookie combo** contributed **10%** combined.  
-- 📉 **Wednesday** had the lowest sales volume.  
+- 🍵 + 🍪 **Tea & Cookie combo** contributed **10%** combined.
+  
+- 📉 **Wednesday** had the lowest sales volume.
+  **Solution:** Introduce mid-week promotions, such as *Buy One Get One Free* offers, *discounts* on certain items, or giving *free* items above a certain amount spent.
 - ❄️ **February** recorded the lowest sales among all months.
+  **Solution:** Organize events during *Valentine's week* such as live band music, *games for couples* to get discounts, or *blind dating*.
 
 ---
 
